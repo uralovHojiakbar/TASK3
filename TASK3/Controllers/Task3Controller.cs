@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
 [ApiController]
-[Route("task3_qara_email_com")]
+[Route("uralovhojiakbar698@gmail.com")]
 public class Task3Controller : ControllerBase
 {
     [HttpGet]
